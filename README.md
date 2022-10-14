@@ -1,4 +1,4 @@
-# Combo-00028874-T77W968
+# Combo 00028874 DW5821e (T77W968)
 Combo per DW5821e (T77W968) 
 
 La release finale testata (manca solo 5ca con la 28) è presente....

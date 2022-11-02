@@ -7,3 +7,4 @@ Google sheet di riferimento: https://docs.google.com/spreadsheets/d/1Wh3R2_i6toG
 
 
 Combo stock (2ant): https://smartphonecombo.it/uecapabilityparser/view?id=493c8903cf
+Combo stock (4ant): https://smartphonecombo.it/uecapabilityparser/view?id=05da2f6473

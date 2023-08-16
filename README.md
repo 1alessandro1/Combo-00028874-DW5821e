@@ -5,6 +5,8 @@ La release finale testata (manca solo la 32) è presente [qui](https://github.co
 
 Aggiornamenti sullo stato del testing della B32: il modem sembrava non avviarsi neanche quando caricavo un file custom con 1-32 o 7-32, serviranno maggiori test per verificare se in effetti questo comportamento è un limite del modem o un mio errore.
 
+Ulteriore aggiornamento: 7-20-32 è l'unica combo che accetta
+
 Google sheet di riferimento: https://docs.google.com/spreadsheets/d/1Wh3R2_i6toGaXt3yzluf1ychSPwmYzON2KBww210oqc/edit#gid=0
 
 
